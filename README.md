@@ -1,2 +1,3 @@
 # tdm
-Travel demand model
+
+Oregon Metro trip-based model
